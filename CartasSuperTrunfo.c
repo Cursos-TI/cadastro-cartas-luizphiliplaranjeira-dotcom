@@ -15,6 +15,6 @@ int main() {
   printf("O nome da área do país: \n");
   printf("O valor do PIB do país: \n");
   // Área para exibição dos dados da cidade
-
+  //teste
 return 0;
 } 
